@@ -9,6 +9,34 @@ document.getElementById("toggleBtn").addEventListener("click",
         chrome.tabs.sendMessage(tab.id,{type: "toggle-dark-mode"});
 })
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // async () => { ... }
 
 // This is an arrow function marked as async.
